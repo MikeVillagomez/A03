@@ -1,6 +1,6 @@
 # A03
-
 Task: Create Repository
+
 **Part 1**
 1. Go to JetBrain to get a individual licenses for students and teachers using https://www.jetbrains.com/shop/eform/students
 2. Once you obtain a licesnse on the website, download Git from https://git-scm.com/downloads  
@@ -25,7 +25,7 @@ Task: Create Repository
 21. Your website is saved and ready to be seen
 
 **Part 2**
-- **Branch**: a parallel version of a repository.Allows you to work freely without disrupting the "live" version
+- **Branch**: a parallel version of a repository. Allows you to work freely without disrupting the "live" version
 - **Clone**: copy of a repository that lives on your computer instead of on a website's server somewhere
 - **Commit**: allows you to keep record of the specific changes committed along with who made them and when
 - **Fetch**: adding changes from the remote repository to your local working branch without committing them.
