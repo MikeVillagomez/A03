@@ -35,4 +35,8 @@
 - **Pull**:fetching in changes and merging them
 - **Remote**:his is the version of a repository or branch that is hosted on a server
 - **Respository**:contains all of the project files, and stores each file's revision history
-- **Website**
+**Website**
+- https://docs.github.com/en/get-started/quickstart/hello-world#introduction
+- https://docs.github.com/en/get-started/quickstart/create-a-repo
+- https://njit.instructure.com/courses/24634/files/3881120?module_item_id=872424
+- https://docs.github.com/en/get-started/quickstart/github-glossary 
