@@ -21,6 +21,7 @@
 19.click on your repository
 20. Click on settings and check that the source is on 'master branch' and press save.
 21. Your website is saved and ready to be seen
+
 **Part 2**
 - **Branch**:A parallel version of a repository.Allows you to work freely without disrupting the "live" version
 - **Clone**: copy of a repository that lives on your computer instead of on a website's server somewhere
@@ -34,3 +35,4 @@
 - **Pull**:fetching in changes and merging them
 - **Remote**:his is the version of a repository or branch that is hosted on a server
 - **Respository**:contains all of the project files, and stores each file's revision history
+- **Website**
