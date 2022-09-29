@@ -40,4 +40,4 @@
 - https://docs.github.com/en/get-started/quickstart/hello-world#introduction
 - https://docs.github.com/en/get-started/quickstart/create-a-repo
 - https://njit.instructure.com/courses/24634/files/3881120?module_item_id=872424
-- https://docs.github.com/en/get-started/quickstart/github-glossary
+- https://docs.github.com/en/get-started/quickstart/github-glossary 
