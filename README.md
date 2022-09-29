@@ -1,29 +1,29 @@
 # A03
 **Part 1**
-1. m0
-2. 8
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
-- 13.
-- 14.
-- 15.
-- 16.
-- 17.
-- 18.
-- 19.
-- 20.
-- 21.
-- 22.
-- 23.
-- 24.
+1. Go to JetBrain to get a individual licenses for students and teachers using https://www.jetbrains.com/shop/eform/students
+2. Once you obtain a licesnse on the website, download Git from https://git-scm.com/downloads  
+3. Create a Github account on this website https://github.com/join
+4. Go to webstorm and press the three keyboard “Ctrl+Alt+S” which will lead you system prefrences.
+5. You will then press Version Control and then the Git option and choose "Path to Git executable" to work on Webstorm to be connected to Git
+6. Add your GitHub account in order for you to connect to it.
+7. Once you do everything and sign in, you will see a color green button that states 'create a new repository'.  
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
 **Part 2**
 - **Branch**:A parallel version of a repository.Allows you to work freely without disrupting the "live" version
 - **Clone**: copy of a repository that lives on your computer instead of on a website's server somewhere
