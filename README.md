@@ -6,24 +6,21 @@
 4. Go to webstorm and press the three keyboard “Ctrl+Alt+S” which will lead you system prefrences.
 5. You will then press Version Control and then the Git option and choose "Path to Git executable" to work on Webstorm to be connected to Git
 6. Add your GitHub account in order for you to connect to it.
-7. Once you do everything and sign in, you will see a color green button that states 'create a new repository'.  
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
+7. Once you do everything and sign in to create a  repository, in the upper-right corner of the page, use the + drop-down menu, and select New repository.
+8. Type a memorable name for your repository, and put it in public
+9. Then add a README file by clicking the checkbox
+10. Click “Create” and you have created a repository
+11. To create a repository from Webstorm open "Create New Project" in Webstorm
+12. Put it in any location and put a porject name and press create.
+13. You will then need to create a HTML file
+14. Make some changes in the default file
+15. Create the Git Repository by choosing Version Control System then Import into Version Control, Create Git Repository, and ok
+16. You then commit and push these changes to Github Version Control System to Git to Commit, and then Version Control System to Git to Push
+17. Check on git see the changes
+18. Commit and push every few changes to Github.
+19.click on your repository
+20. Click on settings and check that the source is on 'master branch' and press save.
+21. Your website is saved and ready to be seen
 **Part 2**
 - **Branch**:A parallel version of a repository.Allows you to work freely without disrupting the "live" version
 - **Clone**: copy of a repository that lives on your computer instead of on a website's server somewhere
