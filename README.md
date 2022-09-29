@@ -1,4 +1,5 @@
 # A03
+Task: Create Repository
 **Part 1**
 1. Go to JetBrain to get a individual licenses for students and teachers using https://www.jetbrains.com/shop/eform/students
 2. Once you obtain a licesnse on the website, download Git from https://git-scm.com/downloads  
@@ -23,18 +24,18 @@
 21. Your website is saved and ready to be seen
 
 **Part 2**
-- **Branch**:A parallel version of a repository.Allows you to work freely without disrupting the "live" version
+- **Branch**: a parallel version of a repository.Allows you to work freely without disrupting the "live" version
 - **Clone**: copy of a repository that lives on your computer instead of on a website's server somewhere
-- **Commit**:allows you to keep record of the specific changes committed along with who made them and when
+- **Commit**: allows you to keep record of the specific changes committed along with who made them and when
 - **Fetch**: adding changes from the remote repository to your local working branch without committing them.
 - **Git**: open source program for tracking changes in text files.
-- **Github**:GitHub is a service to an entire organization and use their own identity when performing their function.
+- **Github**: gitHub is a service to an entire organization and use their own identity when performing their function.
 - **Merge**: take the changes from one branch, and applies them into another
 - **Merge Conflict**: when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. 
-- **Push**:send your committed changes to a remote repository on GitHub.com
-- **Pull**:fetching in changes and merging them
-- **Remote**:his is the version of a repository or branch that is hosted on a server
-- **Respository**:contains all of the project files, and stores each file's revision history
+- **Push**: send your committed changes to a remote repository on GitHub.com
+- **Pull**: fetching in changes and merging them
+- **Remote**: his is the version of a repository or branch that is hosted on a server
+- **Respository**: contains all of the project files, and stores each file's revision history
 
 **Website**
 - https://docs.github.com/en/get-started/quickstart/hello-world#introduction
